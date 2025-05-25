@@ -1,5 +1,9 @@
 # ML-Recruitment-Anay-
 Contains the required documents for the tasks
+
+**You can just read the jupyter nb, it has everything in a structured way**
+
+
 - It has a jupyter nb which contains my journey, challenges I faced, solutions and explanantions
 - It also has a pdf document which contains the same thing. Reading the jupyter nb is preffered cause it is more structured and more readable
 
